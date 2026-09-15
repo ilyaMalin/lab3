@@ -1,0 +1,9 @@
+[submodule "otis"]
+	path = otis
+	url = https://github.com/ilyaMalin/otis
+[submodule "mois"]
+	path = mois
+	url = https://github.com/ilyaMalin/mois
+[submodule "ppois"]
+	path = ppois
+	url = https://github.com/ilyaMalin/ppois
