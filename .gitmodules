@@ -7,3 +7,6 @@
 [submodule "ppois"]
 	path = ppois
 	url = https://github.com/ilyaMalin/ppois
+[submodule "chm"]
+	path = chm
+	url = https://github.com/ilyaMalin/chm.git
