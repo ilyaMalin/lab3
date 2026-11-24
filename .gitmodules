@@ -10,3 +10,6 @@
 [submodule "chm"]
 	path = chm
 	url = https://github.com/ilyaMalin/chm.git
+[submodule "os"]
+	path = os
+	url = https://github.com/ilyaMalin/os
